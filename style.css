@@ -405,3 +405,7 @@ nav h3{
     padding: 40px 40px;
     gap: 30px;
    }
+   .footer{
+  background: rgb(30, 30, 30);
+  padding: 150px;
+   }
